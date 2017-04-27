@@ -1,0 +1,12 @@
+{
+  "name": "asyncsqlite",
+  "version": "0.0.1",
+  "description": "Retrieve and display a data from SQLite asynchronously",
+  "main": "asyncsqlite.js",
+  "author": {
+    "name": "wbwwiltshire"
+  },
+  "dependencies": {
+    "sqlite3": "^3.1.8"
+  }
+}

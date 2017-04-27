@@ -1,0 +1,13 @@
+{
+  "name": "asyncwebget",
+  "version": "0.0.1",
+  "description": "Retrieve and display a url asynchronously",
+  "main": "asyncwebget.js",
+  "author": {
+    "name": "wbwwiltshire"
+  },
+  "dependencies": {
+    "request": "^2.81.0",
+    "request-promise": "^4.2.0"
+  }
+}
